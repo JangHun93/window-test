@@ -420,4 +420,6 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
+# Hello World
+
 # End of https://mrkandreev.name/snippets/gitignore-generator/#C++,VisualStudio
